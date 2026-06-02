@@ -96,7 +96,13 @@
   "share_cards": [
     {
       "category": "عام",
-      "items": []
+      "items": [
+        {
+          "id": "hijri_1448",
+          "title": "عام هجري جديد 1448",
+          "image": "new_higri_1448.png"
+        }
+      ]
     }
   ]
 }
