@@ -95,12 +95,53 @@
   ],
   "share_cards": [
     {
-      "category": "عام",
+      "category": "رمضان",
       "items": [
         {
-          "id": "hijri_1448",
-          "title": "عام هجري جديد 1448",
-          "image": "new_higri_1448.png"
+          "title": "بطاقة 1",
+          "url": "images/share_cards/ramadan_1.png"
+        },
+        {
+          "title": "بطاقة 2",
+          "url": "images/share_cards/ramadan_2.png"
+        },
+        {
+          "title": "بطاقة 3",
+          "url": "images/share_cards/ramadan_3.png"
+        }
+      ]
+    },
+    {
+      "category": "عام هجري جديد",
+      "items": [
+        {
+          "title": "بطاقة 1",
+          "url": "images/share_cards/new_higri_1448_1.png"
+        },
+        {
+          "title": "بطاقة 2",
+          "url": "images/share_cards/new_higri_1448_2.png"
+        },
+        {
+          "title": "بطاقة 3",
+          "url": "images/share_cards/new_higri_1448_3.png"
+        },
+        {
+          "title": "بطاقة 4",
+          "url": "images/share_cards/new_higri_1448_4.png"
+        },
+        {
+          "title": "بطاقة 5",
+          "url": "images/share_cards/new_higri_1448_5.png"
+        }
+      ]
+    },
+    {
+      "category": "عيد الأضحى",
+      "items": [
+        {
+          "title": "بطاقة 1",
+          "url": "images/share_cards/eid_adha_1.png"
         }
       ]
     }
