@@ -24,6 +24,264 @@
       "size": "45 MB"
     }
   ],
+  "audio_reciters": [
+    {
+      "id": "ahmad_alnufais",
+      "name": "أحمد النفيس",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-ahmad-alnufais",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "mishari_alafasy",
+      "name": "مشاري راشد العفاسي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mishari-rashid-al-afasy",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "minshawi_murattal",
+      "name": "محمد صديق المنشاوي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "minshawi_mujawwad",
+      "name": "محمد صديق المنشاوي",
+      "style": "مجود",
+      "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi-mujawwad",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "abdulbasit_murattal",
+      "name": "عبد الباسط عبد الصمد",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdul-basit-abdul-samad",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "abdulbasit_mujawwad",
+      "name": "عبد الباسط عبد الصمد",
+      "style": "مجود",
+      "folder_name": "surah-recitation-abdul-basit-mujawwad",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "husary_murattal",
+      "name": "محمود خليل الحصري",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mahmoud-khaleel-al-husary",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "husary_muallim",
+      "name": "محمود خليل الحصري",
+      "style": "المصحف المعلم",
+      "folder_name": "surah-recitation-mahmoud-khalil-al-husary-muallim",
+      "has_segments": true,
+      "category": "المصحف المعلم"
+    },
+    {
+      "id": "sudais",
+      "name": "عبد الرحمن السديس",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdur-rahman-as-sudais",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "shuraim",
+      "name": "سعود الشريم",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-saud-ash-shuraym",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "muaiqly",
+      "name": "ماهر المعيقلي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-maher-al-muaiqly",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "dussary",
+      "name": "ياسر الدوسري",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-yasser-ad-dussary",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "ghamdi",
+      "name": "سعد الغامدي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-saad-al-ghamdi",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "jalil",
+      "name": "خالد الجليل",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-khalid-al-jalil",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "qatami",
+      "name": "ناصر القطامي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-nasser-al-qatami",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "fares_abbad",
+      "name": "فارس عباد",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-fares-abbad",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "shatri",
+      "name": "أبو بكر الشاطري",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abu-bakr-al-shatri",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "jibreel",
+      "name": "محمد جبريل",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-muhammad-jibreel",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "banna",
+      "name": "محمود علي البنا",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mahmood-ali-al-bana",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "tablawi",
+      "name": "محمد محمود الطبلاوي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mohammad-al-tablawi",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "mustafa_ismail",
+      "name": "مصطفى إسماعيل",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mostafa-ismaeel",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "baleela",
+      "name": "بندر بليلة",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-bandar-baleela",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "juhani",
+      "name": "عبد الله عواد الجهني",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdullah-awad-al-juhani",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "ali_jaber",
+      "name": "عبد الله علي جابر",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdullah-ali-jabir",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "basfar",
+      "name": "عبد الله بصفر",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdullah-basfar",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "rifai",
+      "name": "هاني الرفاعي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-hani-ar-rifai",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "tunaiji",
+      "name": "خليفة الطنيجي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-khalifah-taniji",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "bukhatir",
+      "name": "صلاح بوخاطر",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-salah-bukhatir",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "budair",
+      "name": "صلاح البدير",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-salah-al-budair",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "matroud",
+      "name": "عبد الله مطرود",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-abdullah-matroud",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "nauina",
+      "name": "أحمد نعينع",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-ahmad-nauina",
+      "has_segments": true,
+      "category": "عمالقة القراء (مصر)"
+    },
+    {
+      "id": "sahl_yasin",
+      "name": "سهل ياسين",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-sahl-yasin",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    }
+  ],
   "muezzins": [
     {
       "category": "قراء ومشاهير (مصر والخليج)",
