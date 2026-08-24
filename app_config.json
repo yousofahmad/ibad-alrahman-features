@@ -1,4 +1,29 @@
 {
+  "tafseer_books": [
+    {
+      "id": "muyassar",
+      "name": "التفسير الميسر",
+      "author": "نخبة من العلماء",
+      "is_builtin": true,
+      "size": "2.8 MB"
+    },
+    {
+      "id": "ibn_katheer",
+      "name": "تفسير ابن كثير",
+      "author": "الإمام ابن كثير (تفسير القرآن العظيم)",
+      "url": "tafseer/ar-tafsir-ibn-kathir.json",
+      "is_builtin": false,
+      "size": "24 MB"
+    },
+    {
+      "id": "tabari",
+      "name": "تفسير الطبري",
+      "author": "الإمام الطبري (جامع البيان عن تأويل آي القرآن)",
+      "url": "tafseer/ar-tafsir-al-tabari.json",
+      "is_builtin": false,
+      "size": "45 MB"
+    }
+  ],
   "muezzins": [
     {
       "category": "قراء ومشاهير (مصر والخليج)",
