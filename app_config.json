@@ -50,10 +50,18 @@
       "category": "عمالقة القراء (مصر)"
     },
     {
-      "id": "minshawi_mujawwad",
+      "id": "minshawi_with_kids",
       "name": "محمد صديق المنشاوي",
+      "style": "المصحف المعلم وترديد أطفال",
+      "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi-with-kids",
+      "has_segments": true,
+      "category": "المصحف المعلم"
+    },
+    {
+      "id": "abdulbasit_mujawwad",
+      "name": "عبد الباسط عبد الصمد",
       "style": "مجود",
-      "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi-mujawwad",
+      "folder_name": "surah-recitation-abdul-basit-abd-us-samad-mujawwad",
       "has_segments": true,
       "category": "عمالقة القراء (مصر)"
     },
@@ -61,23 +69,15 @@
       "id": "abdulbasit_murattal",
       "name": "عبد الباسط عبد الصمد",
       "style": "مرتل",
-      "folder_name": "surah-recitation-abdul-basit-abdul-samad",
+      "folder_name": "surah-recitation-abdul-basit-abd-us-samad-murattal",
       "has_segments": true,
       "category": "عمالقة القراء (مصر)"
     },
     {
-      "id": "abdulbasit_mujawwad",
-      "name": "عبد الباسط عبد الصمد",
-      "style": "مجود",
-      "folder_name": "surah-recitation-abdul-basit-mujawwad",
-      "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
-    },
-    {
-      "id": "husary_murattal",
+      "id": "mahmoud_husary_murattal",
       "name": "محمود خليل الحصري",
       "style": "مرتل",
-      "folder_name": "surah-recitation-mahmoud-khaleel-al-husary",
+      "folder_name": "surah-recitation-mahmoud-husary-murattal",
       "has_segments": true,
       "category": "عمالقة القراء (مصر)"
     },
@@ -85,7 +85,7 @@
       "id": "husary_muallim",
       "name": "محمود خليل الحصري",
       "style": "المصحف المعلم",
-      "folder_name": "surah-recitation-mahmoud-khalil-al-husary-muallim",
+      "folder_name": "surah-recitation-mahmoud-khaleel-al-husary-muallam",
       "has_segments": true,
       "category": "المصحف المعلم"
     },
@@ -93,7 +93,7 @@
       "id": "sudais",
       "name": "عبد الرحمن السديس",
       "style": "مرتل",
-      "folder_name": "surah-recitation-abdur-rahman-as-sudais",
+      "folder_name": "surah-recitation-abdul-rahman-al-sudais",
       "has_segments": true,
       "category": "أئمة الحرمين الشريفين"
     },
@@ -101,7 +101,7 @@
       "id": "shuraim",
       "name": "سعود الشريم",
       "style": "مرتل",
-      "folder_name": "surah-recitation-saud-ash-shuraym",
+      "folder_name": "surah-recitation-saud-al-shuraim",
       "has_segments": true,
       "category": "أئمة الحرمين الشريفين"
     },
@@ -114,10 +114,10 @@
       "category": "أئمة الحرمين الشريفين"
     },
     {
-      "id": "dussary",
+      "id": "dosari",
       "name": "ياسر الدوسري",
       "style": "مرتل",
-      "folder_name": "surah-recitation-yasser-ad-dussary",
+      "folder_name": "surah-recitation-yasser-al-dosari",
       "has_segments": true,
       "category": "أئمة الحرمين الشريفين"
     },
@@ -125,7 +125,7 @@
       "id": "ghamdi",
       "name": "سعد الغامدي",
       "style": "مرتل",
-      "folder_name": "surah-recitation-saad-al-ghamdi",
+      "folder_name": "surah-recitation-saad-ghamadi",
       "has_segments": true,
       "category": "مشاهير القراء"
     },
@@ -194,6 +194,22 @@
       "category": "عمالقة القراء (مصر)"
     },
     {
+      "id": "ayyoob",
+      "name": "محمد أيوب",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-muhammad-ayyoob",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "huthaify",
+      "name": "علي عبد الرحمن الحذيفي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-ali-abdur-rahman-al-huthaify",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
       "id": "baleela",
       "name": "بندر بليلة",
       "style": "مرتل",
@@ -218,6 +234,46 @@
       "category": "أئمة الحرمين الشريفين"
     },
     {
+      "id": "budair",
+      "name": "صلاح البدير",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-salah-al-budair",
+      "has_segments": true,
+      "category": "أئمة الحرمين الشريفين"
+    },
+    {
+      "id": "kalbani",
+      "name": "عادل الكلباني",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-adel-kalbani",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "salimi",
+      "name": "منصور السالمي",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mansour-al-salimi-1444h",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "wadee_yamani",
+      "name": "وديع اليمني",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-wadee-hammadi-al-yamani",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
+      "id": "akhdar",
+      "name": "إبراهيم الأخضر",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-ibrahim-al-akhdar",
+      "has_segments": true,
+      "category": "مشاهير القراء"
+    },
+    {
       "id": "basfar",
       "name": "عبد الله بصفر",
       "style": "مرتل",
@@ -237,7 +293,7 @@
       "id": "tunaiji",
       "name": "خليفة الطنيجي",
       "style": "مرتل",
-      "folder_name": "surah-recitation-khalifah-taniji",
+      "folder_name": "surah-recitation-khalifa-al-tunaiji",
       "has_segments": true,
       "category": "مشاهير القراء"
     },
@@ -248,14 +304,6 @@
       "folder_name": "surah-recitation-salah-bukhatir",
       "has_segments": true,
       "category": "مشاهير القراء"
-    },
-    {
-      "id": "budair",
-      "name": "صلاح البدير",
-      "style": "مرتل",
-      "folder_name": "surah-recitation-salah-al-budair",
-      "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
     },
     {
       "id": "matroud",
@@ -280,6 +328,14 @@
       "folder_name": "surah-recitation-sahl-yasin",
       "has_segments": true,
       "category": "مشاهير القراء"
+    },
+    {
+      "id": "noreen_siddiq",
+      "name": "نورين محمد صديق",
+      "style": "رواية الدوري عن أبي عمرو",
+      "folder_name": "surah-recitation-noreen-siddiq-ad-doori-an-abi-amr",
+      "has_segments": true,
+      "category": "قراءات وروايات"
     }
   ],
   "muezzins": [
