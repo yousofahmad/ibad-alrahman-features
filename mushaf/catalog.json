@@ -1,0 +1,53 @@
+{
+  "default_format": "builtin_v1",
+  "formats": [
+    {
+      "compatibility_enabled": true,
+      "description": "صيغة اختيارية من مصحف المدينة ١٤٢١هـ بخطوط الصفحات الأصلية.",
+      "flags": [
+        "public"
+      ],
+      "has_tajweed": false,
+      "id": "qpc_v2_1421",
+      "line_count": 15,
+      "name": "مصحف المدينة ١٤٢١هـ (QPC V2)",
+      "navigation_index_file": "pagination.json",
+      "navigation_index_sha256": "9648068e23c500c3ed0d69462f94719c8f10e2c93d64f7edd195e7f7c42df1ad",
+      "package_url": "https://github.com/yousofahmad/ibad-alrahman-features/releases/download/qpc-layouts-v1/qpc_v2_1421.zip",
+      "page_count": 604,
+      "pagination_matches_builtin": false,
+      "sha256": "f44c43f65631286cf598eeaf6d4b03a2f5fced56c6dca946de411efd359dc65f",
+      "size_bytes": 137630425,
+      "source_url": "https://qul.tarteel.ai/resources/mushaf-layout/10",
+      "word_alignment_matches_builtin": true
+    },
+    {
+      "compatibility_enabled": true,
+      "description": "تجريبي: خطوط V4 قيد التدقيق، وبعض الألوان الثابتة قد تضعف القراءة على الورق الداكن. يُفضّل اختيار ورق فاتح. الصيغة لا تُفعّل ولا تُختار افتراضياً.",
+      "flags": [
+        "public",
+        "tajweed",
+        "experimental",
+        "disabled_by_default"
+      ],
+      "has_tajweed": true,
+      "id": "qpc_v4_tajweed_1441",
+      "line_count": 15,
+      "name": "مصحف المدينة بالتجويد ١٤٤١هـ (QPC V4)",
+      "navigation_index_file": "pagination.json",
+      "navigation_index_sha256": "9a5de644333e3f3252c023d4cf069d10b72bc9ef460cd7940624f8e7b48d5c47",
+      "package_url": "https://github.com/yousofahmad/ibad-alrahman-features/releases/download/qpc-layouts-v1/qpc_v4_tajweed_1441.zip",
+      "page_count": 604,
+      "pagination_matches_builtin": false,
+      "sha256": "c5151b3e84c7b32b088a70aeec16f05dbda67b47d17fc71ea3cf947de4b58e13",
+      "size_bytes": 70161485,
+      "source_url": "https://qul.tarteel.ai/resources/mushaf-layout/19",
+      "word_alignment_matches_builtin": true
+    }
+  ],
+  "hosting_note": "Large package archives are distributed as GitHub Release assets and are not stored in Git history.",
+  "license_notice": "QUL displays no copyright information in the resources' License fields; status is recorded as unknown, not as a prohibition.",
+  "public_link_status": "QUL download actions require login; app downloads use the public GitHub Release assets.",
+  "schema_version": 1,
+  "v4_warning": "الألوان الثابتة لبعض أحرف V4 قد تضعف وضوحها على الورق الداكن؛ يُفضّل الورق الفاتح. الصيغة تجريبية ولا تُختار افتراضياً."
+}
