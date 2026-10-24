@@ -5,23 +5,35 @@
       "name": "التفسير الميسر",
       "author": "نخبة من العلماء",
       "is_builtin": true,
-      "size": "2.8 MB"
+      "size": "2.8 MB",
+      "language_code": "ar",
+      "text_direction": "rtl",
+      "group_id": "muyassar",
+      "group_name": "التفسير الميسر"
     },
     {
       "id": "ibn_katheer",
       "name": "تفسير ابن كثير",
       "author": "الإمام ابن كثير (تفسير القرآن العظيم)",
-      "url": "tafseer/ar-tafsir-ibn-kathir.json",
+      "url": "tafseer/ar-tafsir-ibn-kathir.zip",
       "is_builtin": false,
-      "size": "24 MB"
+      "size": "5.3 MB",
+      "language_code": "ar",
+      "text_direction": "rtl",
+      "group_id": "ibn_katheer",
+      "group_name": "تفسير ابن كثير"
     },
     {
       "id": "tabari",
       "name": "تفسير الطبري",
       "author": "الإمام الطبري (جامع البيان عن تأويل آي القرآن)",
-      "url": "tafseer/ar-tafsir-al-tabari.json",
+      "url": "tafseer/ar-tafsir-al-tabari.zip",
       "is_builtin": false,
-      "size": "45 MB"
+      "size": "8.2 MB",
+      "language_code": "ar",
+      "text_direction": "rtl",
+      "group_id": "tabari",
+      "group_name": "تفسير الطبري"
     }
   ],
   "audio_reciters": [
@@ -31,7 +43,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-ahmad-alnufais",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-alnufais.json.zip",
+      "segments_file_name": "segments.json"
     },
     {
       "id": "mishari_alafasy",
@@ -39,7 +53,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mishari-rashid-al-afasy",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-mishari-rashid-al-afasy-murattal-hafs-953.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Alafasy_128kbps"
     },
     {
       "id": "minshawi_murattal",
@@ -47,7 +64,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Minshawy_Murattal_128kbps"
     },
     {
       "id": "minshawi_with_kids",
@@ -55,7 +74,9 @@
       "style": "المصحف المعلم وترديد أطفال",
       "folder_name": "surah-recitation-muhammad-siddiq-al-minshawi-with-kids",
       "has_segments": true,
-      "category": "المصحف المعلم"
+      "category": "المصحف المعلم",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Minshawy_Teacher_128kbps"
     },
     {
       "id": "abdulbasit_mujawwad",
@@ -63,7 +84,10 @@
       "style": "مجود",
       "folder_name": "surah-recitation-abdul-basit-abd-us-samad-mujawwad",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "zip_file_name": "ayah-recitation-abdul-basit-abdul-samad-mujawwad-hafs-949.json.zip",
+      "segments_file_name": "letter_segments.json",
+      "every_ayah_folder": "Abdul_Basit_Mujawwad_128kbps"
     },
     {
       "id": "abdulbasit_murattal",
@@ -71,7 +95,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdul-basit-abd-us-samad-murattal",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "zip_file_name": "ayah-recitation-abdul-basit-abdul-samad-murattal-hafs-950.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abdul_Basit_Murattal_192kbps"
     },
     {
       "id": "mahmoud_husary_murattal",
@@ -79,7 +106,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mahmoud-husary-murattal",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "zip_file_name": "ayah-recitation-mahmoud-khalil-al-husary-murattal-hafs-955.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Husary_128kbps"
     },
     {
       "id": "husary_muallim",
@@ -87,7 +117,10 @@
       "style": "المصحف المعلم",
       "folder_name": "surah-recitation-mahmoud-khaleel-al-husary-muallam",
       "has_segments": true,
-      "category": "المصحف المعلم"
+      "category": "المصحف المعلم",
+      "zip_file_name": "ayah-recitation-mahmoud-khalil-al-husary-murattal-hafs-957.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Husary_Muallim_128kbps"
     },
     {
       "id": "sudais",
@@ -95,7 +128,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdul-rahman-al-sudais",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "zip_file_name": "ayah-recitation-abdur-rahman-as-sudais-recitation.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abdurrahmaan_As-Sudais_192kbps"
     },
     {
       "id": "shuraim",
@@ -103,7 +139,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-saud-al-shuraim",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "zip_file_name": "ayah-recitation-saud-al-shuraim-murattal-hafs-960.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Saood_ash-Shuraym_128kbps"
     },
     {
       "id": "muaiqly",
@@ -111,7 +150,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-maher-al-muaiqly",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "zip_file_name": "ayah-recitation-maher-al-mu-aiqly-murattal-hafs-948.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Maher_AlMuaiqly_64kbps"
     },
     {
       "id": "dosari",
@@ -119,7 +161,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-yasser-al-dosari",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "zip_file_name": "ayah-recitation-yasser-al-dosari-murattal-hafs-961.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Yasser_Ad-Dussary_128kbps"
     },
     {
       "id": "ghamdi",
@@ -127,7 +172,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-saad-ghamadi",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-saad-al-ghamdi-murattal-hafs-954.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Ghamadi_40kbps"
     },
     {
       "id": "jalil",
@@ -135,7 +183,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-khalid-al-jalil",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Khalid_Al-Jileel_128kbps"
     },
     {
       "id": "qatami",
@@ -143,7 +193,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-nasser-al-qatami",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Nasser_Alqatami_128kbps"
     },
     {
       "id": "fares_abbad",
@@ -151,7 +203,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-fares-abbad",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Fares_Abbad_64kbps"
     },
     {
       "id": "shatri",
@@ -159,7 +213,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abu-bakr-al-shatri",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-abu-bakr-al-shatri-murattal-hafs-952.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abu_Bakr_Ash-Shaatree_128kbps"
     },
     {
       "id": "jibreel",
@@ -167,7 +224,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-muhammad-jibreel",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Muhammad_Jibreel_128kbps"
     },
     {
       "id": "banna",
@@ -175,7 +234,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mahmood-ali-al-bana",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Mahmoud_Ali_Al_Banna_32kbps"
     },
     {
       "id": "tablawi",
@@ -183,7 +244,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mohammad-al-tablawi",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "zip_file_name": "ayah-recitation-mohamed-al-tablawi-recitation-murattal-hafs-73.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Mohammad_al_Tablaway_128kbps"
     },
     {
       "id": "mustafa_ismail",
@@ -191,23 +255,27 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mostafa-ismaeel",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Mustafa_Ismail_48kbps"
     },
     {
       "id": "ayyoob",
       "name": "محمد أيوب",
       "style": "مرتل",
       "folder_name": "surah-recitation-muhammad-ayyoob",
-      "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "has_segments": false,
+      "category": "أئمة الحرمين الشريفين",
+      "every_ayah_folder": "Muhammad_Ayyoub_128kbps"
     },
     {
       "id": "huthaify",
       "name": "علي عبد الرحمن الحذيفي",
       "style": "مرتل",
       "folder_name": "surah-recitation-ali-abdur-rahman-al-huthaify",
-      "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "has_segments": false,
+      "category": "أئمة الحرمين الشريفين",
+      "every_ayah_folder": "Hudhaify_128kbps"
     },
     {
       "id": "baleela",
@@ -215,7 +283,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-bandar-baleela",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Bandar_Baleela_128kbps"
     },
     {
       "id": "juhani",
@@ -223,7 +293,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdullah-awad-al-juhani",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abdullah_Al-Juhany_128kbps"
     },
     {
       "id": "ali_jaber",
@@ -231,7 +303,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdullah-ali-jabir",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Ali_Jaber_64kbps"
     },
     {
       "id": "budair",
@@ -239,15 +313,18 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-salah-al-budair",
       "has_segments": true,
-      "category": "أئمة الحرمين الشريفين"
+      "category": "أئمة الحرمين الشريفين",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Salah_Al_Budair_128kbps"
     },
     {
       "id": "kalbani",
       "name": "عادل الكلباني",
       "style": "مرتل",
       "folder_name": "surah-recitation-adel-kalbani",
-      "has_segments": true,
-      "category": "مشاهير القراء"
+      "has_segments": false,
+      "category": "مشاهير القراء",
+      "every_ayah_folder": "Adel_Kalbani_128kbps"
     },
     {
       "id": "salimi",
@@ -255,23 +332,27 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-mansour-al-salimi-1444h",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Mansoor_Al-Salimi_128kbps"
     },
     {
       "id": "wadee_yamani",
       "name": "وديع اليمني",
       "style": "مرتل",
       "folder_name": "surah-recitation-wadee-hammadi-al-yamani",
-      "has_segments": true,
-      "category": "مشاهير القراء"
+      "has_segments": false,
+      "category": "مشاهير القراء",
+      "every_ayah_folder": "Wadi_Al-Yamani_128kbps"
     },
     {
       "id": "akhdar",
       "name": "إبراهيم الأخضر",
       "style": "مرتل",
       "folder_name": "surah-recitation-ibrahim-al-akhdar",
-      "has_segments": true,
-      "category": "مشاهير القراء"
+      "has_segments": false,
+      "category": "مشاهير القراء",
+      "every_ayah_folder": "Ibrahim_Akhdar_32kbps"
     },
     {
       "id": "basfar",
@@ -279,7 +360,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdullah-basfar",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abdullah_Basfar_192kbps"
     },
     {
       "id": "rifai",
@@ -287,7 +370,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-hani-ar-rifai",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-hani-ar-rifai-recitation-murattal-hafs-68.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Hani_Rifai_192kbps"
     },
     {
       "id": "tunaiji",
@@ -295,7 +381,10 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-khalifa-al-tunaiji",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "zip_file_name": "ayah-recitation-khalifa-al-tunaiji-murattal-hafs-958.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "khalefa_al_tunaiji_64kbps"
     },
     {
       "id": "bukhatir",
@@ -303,7 +392,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-salah-bukhatir",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Salah_Bukhatir_128kbps"
     },
     {
       "id": "matroud",
@@ -311,7 +402,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-abdullah-matroud",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Abdullah_Matroud_128kbps"
     },
     {
       "id": "nauina",
@@ -319,7 +412,9 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-ahmad-nauina",
       "has_segments": true,
-      "category": "عمالقة القراء (مصر)"
+      "category": "عمالقة القراء (مصر)",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Ahmed_Neana_128kbps"
     },
     {
       "id": "sahl_yasin",
@@ -327,108 +422,1047 @@
       "style": "مرتل",
       "folder_name": "surah-recitation-sahl-yasin",
       "has_segments": true,
-      "category": "مشاهير القراء"
+      "category": "مشاهير القراء",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Sahl_Yasin_128kbps"
     },
     {
       "id": "noreen_siddiq",
       "name": "نورين محمد صديق",
       "style": "رواية الدوري عن أبي عمرو",
       "folder_name": "surah-recitation-noreen-siddiq-ad-doori-an-abi-amr",
+      "has_segments": false,
+      "category": "قراءات وروايات",
+      "every_ayah_folder": "Noreen_Siddiq_128kbps"
+    },
+    {
+      "id": "mahmoud_husary_mujawwad",
+      "name": "محمود خليل الحصري",
+      "style": "مجود",
+      "folder_name": "surah-recitation-mahmoud-husary-mujawwad",
+      "category": "عمالقة القراء (مصر)",
       "has_segments": true,
-      "category": "قراءات وروايات"
+      "zip_file_name": "ayah-recitation-mahmoud-khalil-al-husary-mujawwad-hafs-956.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Husary_Mujawwad_128kbps"
+    },
+    {
+      "id": "minshawi_murattal2",
+      "name": "محمد صديق المنشاوي",
+      "style": "مرتل (مصحف ٢)",
+      "folder_name": "surah-recitation-muhammad-siddiq-al-minshawy-murattal",
+      "category": "عمالقة القراء (مصر)",
+      "has_segments": true,
+      "zip_file_name": "ayah-recitation-muhammad-siddiq-al-minshawi-murattal-hafs-959.json.zip",
+      "segments_file_name": "segments.json",
+      "every_ayah_folder": "Minshawy_Murattal_128kbps"
+    },
+    {
+      "id": "qul_ayah_fce39559d113",
+      "name": "Abdul Rahman Al Sudais Murattal Hafs 951.Json",
+      "style": "مرتل",
+      "folder_name": "qul_ayah_fce39559d113",
+      "has_surah_audio": false,
+      "has_segments": true,
+      "zip_file_name": "ayah-recitation-abdul-rahman-al-sudais-murattal-hafs-951.json.zip"
+    },
+    {
+      "id": "qul_74e8d64deea3",
+      "name": "Abdallah Abdal",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdallah-abdal",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdallah-abdal.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c56186b1d448",
+      "name": "Abdul-Mun'im Abdul-Mubdi'",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdul-mun-im-abdul-mubdi",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdul-mun-im-abdul-mubdi.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_618bc9f56e60",
+      "name": "AbdulBaset AbdulSamad with Ibrahim Walk [Saheeh Intl Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdulbaset-abdulsamad-with-ibrahim-walk-saheeh-intl-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdulbaset-abdulsamad-with-ibrahim-walk-saheeh-intl-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_0f7625466550",
+      "name": "AbdulBaset AbdulSamad with Naeem Sultan [Pickthall Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdulbaset-abdulsamad-with-naeem-sultan-pickthall-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdulbaset-abdulsamad-with-naeem-sultan-pickthall-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_29960f3f45e5",
+      "name": "AbdulKareem Al Hazmi",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdulkareem-al-hazmi",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdulkareem-al-hazmi.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_7467d2c514f3",
+      "name": "Abdullah Ali Jabir (1)",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdullah-ali-jabir-qul-qul-7467d2c514f3",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdullah-ali-jabir (1).zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c82ae81332ad",
+      "name": "Abdullah Ali Jabir [Taraweeh]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdullah-ali-jabir-taraweeh",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdullah-ali-jabir-taraweeh.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_acbda3e92a3c",
+      "name": "Abdullah Basfar with Ibrahim Walk [Saheeh Intl Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdullah-basfar-with-ibrahim-walk-saheeh-intl-translation",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdullah-basfar-with-ibrahim-walk-saheeh-intl-translation.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_4e082a4955b6",
+      "name": "Abdullah Khayat",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdullah-khayat",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdullah-khayat.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c76370c195a6",
+      "name": "AbdulWadood Haneef",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdulwadood-haneef",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdulwadood-haneef.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_9c83606e36f6",
+      "name": "AbdulWadud Haneef",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdulwadud-haneef",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdulwadud-haneef.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_3978359b97d1",
+      "name": "Abdur-Rashid Sufi [Abi al-Haarith an al-Kasaa'ee]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdur-rashid-sufi-abi-al-haarith-an-al-kasaa-ee",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-rashid-sufi-abi-al-haarith-an-al-kasaa-ee.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_a1ac202a1b88",
+      "name": "Abdur-Rashid Sufi [ad-Doori an Abi Amr]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdur-rashid-sufi-ad-doori-an-abi-amr",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-rashid-sufi-ad-doori-an-abi-amr.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_7a9bfa3f7efe",
+      "name": "Abdur-Rashid Sufi [Shu'bah an Asim]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdur-rashid-sufi-shu-bah-an-asim",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-rashid-sufi-shu-bah-an-asim.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_695a82759557",
+      "name": "Abdur-Rashid Sufi [Soosi, 2020]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdur-rashid-sufi-soosi-2020",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-rashid-sufi-soosi-2020.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_699597c67489",
+      "name": "Abdur-Rashid Sufi [Soosi]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abdur-rashid-sufi-soosi",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-rashid-sufi-soosi.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_bef17d09a8de",
+      "name": "Abdur-Razaq bin Abtan al-Dulaimi [Mujawwad]",
+      "style": "مجود",
+      "folder_name": "surah-recitation-abdur-razaq-bin-abtan-al-dulaimi-mujawwad",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abdur-razaq-bin-abtan-al-dulaimi-mujawwad.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_779a17497ee3",
+      "name": "Abu Bakr al-Shatri [Taraweeh]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-abu-bakr-al-shatri-taraweeh",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-abu-bakr-al-shatri-taraweeh.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_962973bd5d31",
+      "name": "Adel Kalbani (1)",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-adel-kalbani-qul-qul-962973bd5d31",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-adel-kalbani (1).zip",
+      "surah_audio_url_count": 112
+    },
+    {
+      "id": "qul_6775d3975742",
+      "name": "Akram Al-Alaqmi",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-akram-al-alaqmi",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-akram-al-alaqmi.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_5607eb185050",
+      "name": "Al-Hussayni Al-'Azazy (with Children)",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-al-hussayni-al-azazy-with-children",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-al-hussayni-al-azazy-with-children.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_a6c1c5f164cc",
+      "name": "Ali al-Huthaify [Qaloon]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-ali-al-huthaify-qaloon",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-ali-al-huthaify-qaloon.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_d5c6fbfb90be",
+      "name": "Ali Hajjaj Alsouasi",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-ali-hajjaj-alsouasi",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-ali-hajjaj-alsouasi.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_1dd97555890e",
+      "name": "Asim Abdul Aleem",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-asim-abdul-aleem",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-asim-abdul-aleem.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_9cda287b61c9",
+      "name": "Aziz Alili",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-aziz-alili",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-aziz-alili.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_afe6448f5323",
+      "name": "Fatih Seferagic",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-fatih-seferagic",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-fatih-seferagic.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c17d70ec5182",
+      "name": "Hady Toure",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-hady-toure",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-hady-toure.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_d281bb0ce355",
+      "name": "Hamad Sinan",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-hamad-sinan",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-hamad-sinan.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_b8b04139b5a9",
+      "name": "Hatem Farid - Taraweeh 1430",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-hatem-farid-taraweeh-1430",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-hatem-farid-taraweeh-1430.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_056bd593e79a",
+      "name": "Hatem Farid - Taraweeh 1431",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-hatem-farid-taraweeh-1431",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-hatem-farid-taraweeh-1431.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_e11ddafcc296",
+      "name": "Hatem Farid - Taraweeh 1432",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-hatem-farid-taraweeh-1432",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-hatem-farid-taraweeh-1432.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_79f778c48a1e",
+      "name": "Imad Zuhair Hafez",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-imad-zuhair-hafez",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-imad-zuhair-hafez.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_25fc650b1827",
+      "name": "Khalid al-Qahtani",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-khalid-al-qahtani",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-khalid-al-qahtani.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_620f03145b1d",
+      "name": "Madinah Taraweeh 1423",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1423",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1423.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_59d7c49908f2",
+      "name": "Madinah Taraweeh 1429",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1429",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1429.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_b01402fe436d",
+      "name": "Madinah Taraweeh 1430",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1430",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1430.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_8e5ab550f350",
+      "name": "Madinah Taraweeh 1432",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1432",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1432.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c166e90c1540",
+      "name": "Madinah Taraweeh 1434",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1434",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1434.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_9369812c0b52",
+      "name": "Madinah Taraweeh 1435",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1435",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1435.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_59c9b0596287",
+      "name": "Madinah Taraweeh 1436",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1436",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1436.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_64caca1f9c06",
+      "name": "Madinah Taraweeh 1437",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1437",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1437.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_f1dec4563ef7",
+      "name": "Madinah Taraweeh 1439",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1439",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1439.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_2fa54b94b306",
+      "name": "Madinah Taraweeh 1440",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1440",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1440.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_a33a9d045644",
+      "name": "Madinah Taraweeh 1441",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1441",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1441.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_20b9d9ca9d10",
+      "name": "Madinah Taraweeh 1442",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-madinah-taraweeh-1442",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-madinah-taraweeh-1442.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_5601bbd36986",
+      "name": "Mahmoud Khaleel Al-Husary (with Children)",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-mahmoud-khaleel-al-husary-with-children",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-mahmoud-khaleel-al-husary-with-children.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_a94af95a37f8",
+      "name": "Mahmoud Khaleel Al-Husary",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-mahmoud-khaleel-al-husary",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-mahmoud-khaleel-al-husary.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_b9f4152efd03",
+      "name": "Makkah Taraweeh 1434",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1434",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1434.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_8cc093e42859",
+      "name": "Makkah Taraweeh 1437",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1437",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1437.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_c242a3b202f4",
+      "name": "Makkah Taraweeh 1438",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1438",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1438.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_2db34aa5e8e2",
+      "name": "Makkah Taraweeh 1439",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1439",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1439.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_6a4d9be322b0",
+      "name": "Makkah Taraweeh 1440",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1440",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1440.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_cd5a725b6813",
+      "name": "Makkah Taraweeh 1441",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1441",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1441.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_ad003161fc58",
+      "name": "Makkah Taraweeh 1442",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-makkah-taraweeh-1442",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-makkah-taraweeh-1442.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_8a091910edf3",
+      "name": "Mishari Al Afasy",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-mishari-al-afasy",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-mishari-al-afasy.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_b78325400621",
+      "name": "Mishari ibn Rashid al-`Afasy with Ibrahim Walk [Saheeh Intl Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-mishari-ibn-rashid-al-afasy-with-ibrahim-walk-saheeh-intl-translation",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-mishari-ibn-rashid-al-afasy-with-ibrahim-walk-saheeh-intl-translation.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
+    },
+    {
+      "id": "qul_6efe71ff0817",
+      "name": "Mohammad Ismaeel Al-Muqaddim",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-mohammad-ismaeel-al-muqaddim",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-mohammad-ismaeel-al-muqaddim.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_6e3aeb799f6e",
+      "name": "Muhammad Abdul-Kareem",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-muhammad-abdul-kareem",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-muhammad-abdul-kareem.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_d21e99835d36",
+      "name": "Muhammad Ayyoob [Taraweeh]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-muhammad-ayyoob-taraweeh",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-muhammad-ayyoob-taraweeh.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_ef72cda5fac2",
+      "name": "Muhammad Ayyub with Mikaal Waters [Muhsin Khan Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-muhammad-ayyub-with-mikaal-waters-muhsin-khan-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-muhammad-ayyub-with-mikaal-waters-muhsin-khan-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_028f83b8e7c1",
+      "name": "Muhammad Hassan",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-muhammad-hassan",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-muhammad-hassan.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_bd8850bf49c1",
+      "name": "Muhammad Sulaiman Patel",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-muhammad-sulaiman-patel",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-muhammad-sulaiman-patel.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_2b2acf6fb1fd",
+      "name": "Nabil ar-Rifai",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-nabil-ar-rifai",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-nabil-ar-rifai.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_8a31b2964fd1",
+      "name": "Sa`ud ash-Shuraym [older recitation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-sa-ud-ash-shuraym-older-recitation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-sa-ud-ash-shuraym-older-recitation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_842a22eaab4a",
+      "name": "Sadaqat `Ali",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-sadaqat-ali",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-sadaqat-ali.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_5dbf924b8aef",
+      "name": "Shakir Qasami with Aslam Athar [Pickthall Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-shakir-qasami-with-aslam-athar-pickthall-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-shakir-qasami-with-aslam-athar-pickthall-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_dcbede53ecf6",
+      "name": "Sudais and Shuraym [older recitation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-sudais-and-shuraym-older-recitation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-sudais-and-shuraym-older-recitation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_e080193e1f2f",
+      "name": "Sudais and Shuraym with Aslam Athar [Pickthall Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-sudais-and-shuraym-with-aslam-athar-pickthall-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-sudais-and-shuraym-with-aslam-athar-pickthall-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_e1c4527b8370",
+      "name": "Sudais and Shuraym with Naeem Sultan [Pickthall Translation]",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-sudais-and-shuraym-with-naeem-sultan-pickthall-translation",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-sudais-and-shuraym-with-naeem-sultan-pickthall-translation.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_eaeefab6eebd",
+      "name": "Tawfeeq ibn Sa`id as-Sawa'igh",
+      "style": "تلاوة",
+      "folder_name": "surah-recitation-tawfeeq-ibn-sa-id-as-sawa-igh",
+      "has_segments": false,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-tawfeeq-ibn-sa-id-as-sawa-igh.zip",
+      "surah_audio_url_count": 114
+    },
+    {
+      "id": "qul_f8f9c155b992",
+      "name": "Yasser ad-Dussary",
+      "style": "مرتل",
+      "folder_name": "surah-recitation-yasser-ad-dussary",
+      "has_segments": true,
+      "has_surah_audio": true,
+      "source_archive": "surah-recitation-yasser-ad-dussary.zip",
+      "surah_audio_url_count": 114,
+      "segments_file_name": "segments.json"
     }
   ],
   "muezzins": [
     {
       "category": "قراء ومشاهير (مصر والخليج)",
       "muezzins": [
-        {"name": "أحمد النفيس", "id": "nafis"},
-        {"name": "مشاري راشد العفاسي (1)", "id": "mishary"},
-        {"name": "مشاري راشد العفاسي (2)", "id": "mishary_2"},
-        {"name": "عبد الباسط عبد الصمد (1)", "id": "abdulbasit"},
-        {"name": "عبد الباسط عبد الصمد (2)", "id": "abdulbasit_2"},
-        {"name": "عبد الباسط (العشاء)", "id": "abdulbasit_isha"},
-        {"name": "عبد الباسط (القاهرة)", "id": "abdulbasit_cairo"},
-        {"name": "محمد رفعت", "id": "rifat"},
-        {"name": "محمود علي البنا", "id": "banna"},
-        {"name": "مصطفى اسماعيل", "id": "mustafa_ismail"},
-        {"name": "أبو العينين شعيشع", "id": "shaisha"},
-        {"name": "محمود خليل الحصري", "id": "hussary"},
-        {"name": "محمد صديق المنشاوي (1)", "id": "minshawi"},
-        {"name": "محمد صديق المنشاوي (2)", "id": "minshawi_2"},
-        {"name": "أحمد نواف", "id": "nawaf"}
+        {
+          "name": "أحمد النفيس",
+          "id": "nafis"
+        },
+        {
+          "name": "مشاري راشد العفاسي (1)",
+          "id": "mishary"
+        },
+        {
+          "name": "مشاري راشد العفاسي (2)",
+          "id": "mishary_2"
+        },
+        {
+          "name": "عبد الباسط عبد الصمد (1)",
+          "id": "abdulbasit"
+        },
+        {
+          "name": "عبد الباسط عبد الصمد (2)",
+          "id": "abdulbasit_2"
+        },
+        {
+          "name": "عبد الباسط (العشاء)",
+          "id": "abdulbasit_isha"
+        },
+        {
+          "name": "عبد الباسط (القاهرة)",
+          "id": "abdulbasit_cairo"
+        },
+        {
+          "name": "محمد رفعت",
+          "id": "rifat"
+        },
+        {
+          "name": "محمود علي البنا",
+          "id": "banna"
+        },
+        {
+          "name": "مصطفى اسماعيل",
+          "id": "mustafa_ismail"
+        },
+        {
+          "name": "أبو العينين شعيشع",
+          "id": "shaisha"
+        },
+        {
+          "name": "محمود خليل الحصري",
+          "id": "hussary"
+        },
+        {
+          "name": "محمد صديق المنشاوي (1)",
+          "id": "minshawi"
+        },
+        {
+          "name": "محمد صديق المنشاوي (2)",
+          "id": "minshawi_2"
+        },
+        {
+          "name": "أحمد نواف",
+          "id": "nawaf"
+        }
       ]
     },
     {
       "category": "مؤذني الحرم المكي",
       "muezzins": [
-        {"name": "علي أحمد ملا (شيخ المؤذنين)", "id": "mulla"},
-        {"name": "محمد رمل", "id": "raml"},
-        {"name": "أذان مكة (16)", "id": "makkah_16"},
-        {"name": "أذان مكة (19)", "id": "makkah_19"},
-        {"name": "أذان مكة (20)", "id": "makkah_20"},
-        {"name": "أذان مكة (قديم 1)", "id": "makkah_3"},
-        {"name": "أذان مكة (قديم 2)", "id": "makkah_4"},
-        {"name": "مهدي البيشي", "id": "bishi"},
-        {"name": "عبد الرزاق صالح", "id": "saleh"}
+        {
+          "name": "علي أحمد ملا (شيخ المؤذنين)",
+          "id": "mulla"
+        },
+        {
+          "name": "محمد رمل",
+          "id": "raml"
+        },
+        {
+          "name": "أذان مكة (16)",
+          "id": "makkah_16"
+        },
+        {
+          "name": "أذان مكة (19)",
+          "id": "makkah_19"
+        },
+        {
+          "name": "أذان مكة (20)",
+          "id": "makkah_20"
+        },
+        {
+          "name": "أذان مكة (قديم 1)",
+          "id": "makkah_3"
+        },
+        {
+          "name": "أذان مكة (قديم 2)",
+          "id": "makkah_4"
+        },
+        {
+          "name": "مهدي البيشي",
+          "id": "bishi"
+        },
+        {
+          "name": "عبد الرزاق صالح",
+          "id": "saleh"
+        }
       ]
     },
     {
       "category": "مؤذني الحرم المدني",
       "muezzins": [
-        {"name": "أذان المدينة (18)", "id": "madinah_18"},
-        {"name": "أذان المدينة (رئيسي)", "id": "madinah"},
-        {"name": "أذان المدينة (2)", "id": "madinah_2"},
-        {"name": "عبد المجيد السريحي", "id": "surayhi"}
+        {
+          "name": "أذان المدينة (18)",
+          "id": "madinah_18"
+        },
+        {
+          "name": "أذان المدينة (رئيسي)",
+          "id": "madinah"
+        },
+        {
+          "name": "أذان المدينة (2)",
+          "id": "madinah_2"
+        },
+        {
+          "name": "عبد المجيد السريحي",
+          "id": "surayhi"
+        }
       ]
     },
     {
       "category": "المسجد الأقصى والعالم",
       "muezzins": [
-        {"name": "أذان القدس", "id": "quds"},
-        {"name": "ناجي قزاز (الأقصى 1)", "id": "aqsa_qazzaz"},
-        {"name": "ناجي قزاز (الأقصى 2)", "id": "aqsa_qazzaz_2"},
-        {"name": "تركيا (1)", "id": "turkey_1"},
-        {"name": "تركيا (2)", "id": "turkey_2"},
-        {"name": "حسين ايرك (تركيا)", "id": "duman"},
-        {"name": "سوريا", "id": "syria"},
-        {"name": "الجزائر", "id": "algeria"},
-        {"name": "تونس", "id": "tunisia"},
-        {"name": "الكويت", "id": "kuwait_3"},
-        {"name": "دبي", "id": "dubai"},
-        {"name": "مسقط (عمان)", "id": "oman"},
-        {"name": "الهند", "id": "india"},
-        {"name": "باكستان", "id": "pakistan"},
-        {"name": "إندونيسيا", "id": "indonesia"},
-        {"name": "ماليزيا", "id": "malaysia"},
-        {"name": "بروني (1)", "id": "brunei_1"},
-        {"name": "جزر المالديف", "id": "maldives"}
+        {
+          "name": "أذان القدس",
+          "id": "quds"
+        },
+        {
+          "name": "ناجي قزاز (الأقصى 1)",
+          "id": "aqsa_qazzaz"
+        },
+        {
+          "name": "ناجي قزاز (الأقصى 2)",
+          "id": "aqsa_qazzaz_2"
+        },
+        {
+          "name": "تركيا (1)",
+          "id": "turkey_1"
+        },
+        {
+          "name": "تركيا (2)",
+          "id": "turkey_2"
+        },
+        {
+          "name": "حسين ايرك (تركيا)",
+          "id": "duman"
+        },
+        {
+          "name": "سوريا",
+          "id": "syria"
+        },
+        {
+          "name": "الجزائر",
+          "id": "algeria"
+        },
+        {
+          "name": "تونس",
+          "id": "tunisia"
+        },
+        {
+          "name": "الكويت",
+          "id": "kuwait_3"
+        },
+        {
+          "name": "دبي",
+          "id": "dubai"
+        },
+        {
+          "name": "مسقط (عمان)",
+          "id": "oman"
+        },
+        {
+          "name": "الهند",
+          "id": "india"
+        },
+        {
+          "name": "باكستان",
+          "id": "pakistan"
+        },
+        {
+          "name": "إندونيسيا",
+          "id": "indonesia"
+        },
+        {
+          "name": "ماليزيا",
+          "id": "malaysia"
+        },
+        {
+          "name": "بروني (1)",
+          "id": "brunei_1"
+        },
+        {
+          "name": "جزر المالديف",
+          "id": "maldives"
+        }
       ]
     },
     {
       "category": "أذان الفجر وتكبيرات",
       "muezzins": [
-        {"name": "تكبيرات العيد", "id": "takbeer_eid"},
-        {"name": "أذان الفجر (مكة)", "id": "fajr_makkah"},
-        {"name": "أذان الفجر (المدينة)", "id": "fajr_madinah"},
-        {"name": "أذان الفجر (مصر)", "id": "fajr_egypt"},
-        {"name": "أذان الفجر (القدس)", "id": "fajr_quds"},
-        {"name": "أذان الفجر (الكويت)", "id": "fajr_kuwait_1"},
-        {"name": "أذان الفجر (مشاري 1)", "id": "fajr_mishary_1"},
-        {"name": "أذان الفجر (مشاري 2)", "id": "fajr_mishary_2"},
-        {"name": "أذان الفجر (عبد الباسط)", "id": "fajr_abdulbasit"}
+        {
+          "name": "تكبيرات العيد",
+          "id": "takbeer_eid"
+        },
+        {
+          "name": "أذان الفجر (مكة)",
+          "id": "fajr_makkah"
+        },
+        {
+          "name": "أذان الفجر (المدينة)",
+          "id": "fajr_madinah"
+        },
+        {
+          "name": "أذان الفجر (مصر)",
+          "id": "fajr_egypt"
+        },
+        {
+          "name": "أذان الفجر (القدس)",
+          "id": "fajr_quds"
+        },
+        {
+          "name": "أذان الفجر (الكويت)",
+          "id": "fajr_kuwait_1"
+        },
+        {
+          "name": "أذان الفجر (مشاري 1)",
+          "id": "fajr_mishary_1"
+        },
+        {
+          "name": "أذان الفجر (مشاري 2)",
+          "id": "fajr_mishary_2"
+        },
+        {
+          "name": "أذان الفجر (عبد الباسط)",
+          "id": "fajr_abdulbasit"
+        }
       ]
     },
     {
       "category": "مؤذني جامع الراجحي ومنوعات",
       "muezzins": [
-        {"name": "جامع الراجحي (1)", "id": "rajhi"},
-        {"name": "جامع الراجحي (2)", "id": "rajhi_2"},
-        {"name": "حمزة الحلبية", "id": "halabiya"},
-        {"name": "أحمد العمادي (قطر)", "id": "emadi"},
-        {"name": "زهير طارش", "id": "taresh"},
-        {"name": "عجمان", "id": "ajman"},
-        {"name": "جورجيا", "id": "georgia"}
+        {
+          "name": "جامع الراجحي (1)",
+          "id": "rajhi"
+        },
+        {
+          "name": "جامع الراجحي (2)",
+          "id": "rajhi_2"
+        },
+        {
+          "name": "حمزة الحلبية",
+          "id": "halabiya"
+        },
+        {
+          "name": "أحمد العمادي (قطر)",
+          "id": "emadi"
+        },
+        {
+          "name": "زهير طارش",
+          "id": "taresh"
+        },
+        {
+          "name": "عجمان",
+          "id": "ajman"
+        },
+        {
+          "name": "جورجيا",
+          "id": "georgia"
+        }
       ]
     }
   ],
