@@ -1,0 +1,82 @@
+{
+  "default_format": "builtin_v1",
+  "formats": [
+    {
+      "compatibility_enabled": true,
+      "description": "صيغة اختيارية من مصحف المدينة ١٤٢١هـ بخطوط الصفحات الأصلية.",
+      "flags": [
+        "public"
+      ],
+      "has_tajweed": false,
+      "id": "qpc_v2_1421",
+      "line_count": 15,
+      "name": "مصحف المدينة ١٤٢١هـ (QPC V2)",
+      "navigation_index_file": "pagination.json",
+      "navigation_index_sha256": "9648068e23c500c3ed0d69462f94719c8f10e2c93d64f7edd195e7f7c42df1ad",
+      "package_url": "https://github.com/yousofahmad/ibad-alrahman-features/releases/download/qpc-layouts-v1/qpc_v2_1421.zip",
+      "page_count": 604,
+      "pagination_matches_builtin": false,
+      "sha256": "f44c43f65631286cf598eeaf6d4b03a2f5fced56c6dca946de411efd359dc65f",
+      "size_bytes": 137630425,
+      "source_url": "https://qul.tarteel.ai/resources/mushaf-layout/10",
+      "word_alignment_matches_builtin": true
+    },
+    {
+      "compatibility_enabled": true,
+      "description": "تجريبي: خطوط V4 قيد التدقيق، وبعض الألوان الثابتة قد تضعف القراءة على الورق الداكن. يُفضّل اختيار ورق فاتح. الصيغة لا تُفعّل ولا تُختار افتراضياً.",
+      "flags": [
+        "public",
+        "tajweed",
+        "experimental",
+        "disabled_by_default"
+      ],
+      "has_tajweed": true,
+      "id": "qpc_v4_tajweed_1441",
+      "line_count": 15,
+      "name": "مصحف المدينة بالتجويد ١٤٤١هـ (QPC V4)",
+      "navigation_index_file": "pagination.json",
+      "navigation_index_sha256": "9a5de644333e3f3252c023d4cf069d10b72bc9ef460cd7940624f8e7b48d5c47",
+      "package_url": "https://github.com/yousofahmad/ibad-alrahman-features/releases/download/qpc-layouts-v1/qpc_v4_tajweed_1441.zip",
+      "page_count": 604,
+      "pagination_matches_builtin": false,
+      "sha256": "c5151b3e84c7b32b088a70aeec16f05dbda67b47d17fc71ea3cf947de4b58e13",
+      "size_bytes": 70161485,
+      "source_url": "https://qul.tarteel.ai/resources/mushaf-layout/19",
+      "word_alignment_matches_builtin": true
+    },
+    {
+      "compatibility_enabled": true,
+      "data_license_status": "unknown_no_copyright_information",
+      "description": "صيغة اختيارية بخط Digital Khatt V2 الأصلي وتخطيطه ذي ١٥ سطرًا. ضبط السطر بمحرك التطبيق وقد يختلف عن محرك Digital Khatt المرجعي. الصيغة تجريبية ولا تغيّر المصحف الافتراضي.",
+      "flags": [
+        "public",
+        "unicode",
+        "experimental",
+        "disabled_by_default"
+      ],
+      "font_license": "SIL Open Font License 1.1",
+      "font_mode": "unicode_single",
+      "font_source_url": "https://qul.tarteel.ai/resources/font/247",
+      "has_tajweed": false,
+      "id": "digital_khatt_v2",
+      "license_sha256": "7480d567edbfa43408722d2d6f167e32b8d293121c61b74be49c6be7f804c00d",
+      "line_count": 15,
+      "name": "مصحف المدينة بخط Digital Khatt V2",
+      "navigation_index_file": "pagination.json",
+      "navigation_index_sha256": "7fe3cb7791393d3020a3585f6d26ec70d668c0594575a8e83a177490110ce006",
+      "package_url": "mushaf/formats/digital_khatt_v2.zip",
+      "page_count": 604,
+      "pagination_matches_builtin": false,
+      "sha256": "ee5c6ad38b830f6149a80d3e79d5aeda553c9f4681658981d9184bb6985a5080",
+      "size_bytes": 2071777,
+      "source_url": "https://qul.tarteel.ai/resources/mushaf-layout/21",
+      "word_alignment_matches_builtin": true,
+      "word_script_source_url": "https://qul.tarteel.ai/resources/quran-script/48"
+    }
+  ],
+  "hosting_note": "Large QPC packages are distributed as GitHub Release assets. The small Digital Khatt package is served from this work branch.",
+  "license_notice": "QUL layout/script License fields are unknown, not a prohibition. Font-specific licenses and attribution are preserved; Digital Khatt V2 includes the SIL OFL 1.1 text.",
+  "public_link_status": "QUL download actions require login; app downloads use public GitHub Release assets or the packaged work-branch files, never account-bound QUL routes.",
+  "schema_version": 1,
+  "v4_warning": "الألوان الثابتة لبعض أحرف V4 قد تضعف وضوحها على الورق الداكن؛ يُفضّل الورق الفاتح. الصيغة تجريبية ولا تُختار افتراضياً."
+}
