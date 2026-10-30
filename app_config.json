@@ -1481,6 +1481,14 @@
         {
           "title": "بطاقة 3",
           "url": "images/share_cards/ramadan_3.png"
+        },
+        {
+          "title": "بطاقة 4",
+          "url": "images/share_cards/ramadan_4.png"
+        },
+        {
+          "title": "بطاقة 5",
+          "url": "images/share_cards/ramadan_5.png"
         }
       ]
     },
@@ -1515,6 +1523,40 @@
         {
           "title": "بطاقة 1",
           "url": "images/share_cards/eid_adha_1.png"
+        },
+        {
+          "title": "بطاقة 2",
+          "url": "images/share_cards/eid_adha_2.png"
+        },
+        {
+          "title": "بطاقة 3",
+          "url": "images/share_cards/eid_adha_3.png"
+        }
+      ]
+    },
+    {
+      "category": "عيد الفطر",
+      "items": [
+        {
+          "title": "بطاقة 1",
+          "url": "images/share_cards/eid_fitr_1.png"
+        },
+        {
+          "title": "بطاقة 2",
+          "url": "images/share_cards/eid_fitr_2.png"
+        }
+      ]
+    },
+    {
+      "category": "الأذكار",
+      "items": [
+        {
+          "title": "أذكار الصباح",
+          "url": "images/share_cards/adhkar_morning_wide_v3.png"
+        },
+        {
+          "title": "أذكار المساء",
+          "url": "images/share_cards/adhkar_evening_wide_v3.png"
         }
       ]
     }
