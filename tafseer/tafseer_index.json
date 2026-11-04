@@ -23,7 +23,8 @@
       "audit_status": "parsed_valid",
       "size": "5.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/22/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير ابن كثير"
     },
     {
       "id": "qul_tafsir_23",
@@ -45,7 +46,8 @@
       "audit_status": "parsed_valid",
       "size": "7.4 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/23/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير القرطبي"
     },
     {
       "id": "qul_tafsir_24",
@@ -67,7 +69,8 @@
       "audit_status": "parsed_valid",
       "size": "1.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/24/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير السعدي"
     },
     {
       "id": "qul_tafsir_25",
@@ -89,7 +92,8 @@
       "audit_status": "parsed_valid",
       "size": "10.1 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/25/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "التحرير والتنوير"
     },
     {
       "id": "qul_tafsir_26",
@@ -111,7 +115,8 @@
       "audit_status": "parsed_valid",
       "size": "4.5 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/26/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "التفسير الوسيط"
     },
     {
       "id": "qul_tafsir_27",
@@ -133,7 +138,8 @@
       "audit_status": "parsed_valid",
       "size": "3.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/27/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير البغوي"
     },
     {
       "id": "qul_tafsir_28",
@@ -354,7 +360,8 @@
       "audit_status": "parsed_valid",
       "size": "8.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/37/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير الطبري"
     },
     {
       "id": "qul_tafsir_38",
@@ -377,7 +384,8 @@
       "size": "0.6 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/38/licence",
       "license_note": "We don’t have copyright information for this resource.",
-      "edition": "QUL resource 38"
+      "edition": "QUL resource 38",
+      "display_name_ar": "التفسير الميسر"
     },
     {
       "id": "qul_tafsir_39",
@@ -487,7 +495,8 @@
       "audit_status": "parsed_valid",
       "size": "0.5 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/251/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "المختصر في تفسير القرآن الكريم"
     },
     {
       "id": "qul_tafsir_252",
@@ -949,7 +958,8 @@
       "audit_status": "parsed_valid",
       "size": "1.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/308/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير السعدي"
     },
     {
       "id": "qul_tafsir_309",
@@ -1082,7 +1092,8 @@
       "audit_status": "parsed_valid",
       "size": "9.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/486/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير ابن عثيمين"
     },
     {
       "id": "qul_tafsir_487",
@@ -1104,7 +1115,8 @@
       "audit_status": "parsed_valid",
       "size": "0.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/487/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تحليل كلمات القرآن الكريم"
     },
     {
       "id": "qul_tafsir_488",
@@ -1126,7 +1138,8 @@
       "audit_status": "parsed_valid",
       "size": "9.1 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/488/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير الرازي"
     },
     {
       "id": "qul_tafsir_489",
@@ -1148,7 +1161,8 @@
       "audit_status": "parsed_valid",
       "size": "0.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/489/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الوجيز في التفسير للواحدي"
     },
     {
       "id": "qul_tafsir_490",
@@ -1192,7 +1206,8 @@
       "audit_status": "parsed_valid",
       "size": "1.0 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/491/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "التسهيل لعلوم التنزيل لابن جزي"
     },
     {
       "id": "qul_tafsir_492",
@@ -1214,7 +1229,8 @@
       "audit_status": "parsed_valid",
       "size": "11.6 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/492/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "موسوعة التفسير بالمأثور"
     },
     {
       "id": "qul_tafsir_493",
@@ -1236,7 +1252,8 @@
       "audit_status": "parsed_valid",
       "size": "4.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/493/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الدر المنثور في التفسير بالمأثور"
     },
     {
       "id": "qul_tafsir_494",
@@ -1258,7 +1275,8 @@
       "audit_status": "parsed_valid",
       "size": "4.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/494/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "فتح القدير للشوكاني"
     },
     {
       "id": "qul_tafsir_495",
@@ -1280,7 +1298,8 @@
       "audit_status": "parsed_valid",
       "size": "4.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/495/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "فتح البيان في مقاصد القرآن للقنوجي"
     },
     {
       "id": "qul_tafsir_496",
@@ -1302,7 +1321,8 @@
       "audit_status": "parsed_valid",
       "size": "2.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/496/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "زاد المسير في علم التفسير لابن الجوزي"
     },
     {
       "id": "qul_tafsir_497",
@@ -1324,7 +1344,8 @@
       "audit_status": "parsed_valid",
       "size": "3.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/497/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "إرشاد العقل السليم إلى مزايا الكتاب الكريم لأبي السعود"
     },
     {
       "id": "qul_tafsir_498",
@@ -1346,7 +1367,8 @@
       "audit_status": "parsed_valid",
       "size": "6.4 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/498/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "نظم الدرر في تناسب الآيات والسور للبقاعي"
     },
     {
       "id": "qul_tafsir_499",
@@ -1368,7 +1390,8 @@
       "audit_status": "parsed_valid",
       "size": "0.8 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/499/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير ابن أبي زمنين"
     },
     {
       "id": "qul_tafsir_500",
@@ -1390,7 +1413,8 @@
       "audit_status": "parsed_valid",
       "size": "4.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/500/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير ابن القيم"
     },
     {
       "id": "qul_tafsir_501",
@@ -1412,7 +1436,8 @@
       "audit_status": "parsed_valid",
       "size": "12.0 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/501/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "روح المعاني للألوسي"
     },
     {
       "id": "qul_tafsir_502",
@@ -1434,7 +1459,8 @@
       "audit_status": "parsed_valid",
       "size": "1.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/502/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير ابن أبي حاتم"
     },
     {
       "id": "qul_tafsir_503",
@@ -1478,7 +1504,8 @@
       "audit_status": "parsed_valid",
       "size": "1.1 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/504/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "إعراب القرآن الميسر"
     },
     {
       "id": "qul_tafsir_505",
@@ -1500,7 +1527,8 @@
       "audit_status": "parsed_valid",
       "size": "3.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/505/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الدر المصون في علوم الكتاب المكنون"
     },
     {
       "id": "qul_tafsir_506",
@@ -1522,7 +1550,8 @@
       "audit_status": "parsed_valid",
       "size": "3.1 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/506/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "إعراب القرآن الكريم وبيانه للدرويش"
     },
     {
       "id": "qul_tafsir_507",
@@ -1544,7 +1573,8 @@
       "audit_status": "parsed_valid",
       "size": "1.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/507/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "أيسر التفاسير لأبي بكر الجزائري"
     },
     {
       "id": "qul_tafsir_508",
@@ -1566,7 +1596,8 @@
       "audit_status": "parsed_valid",
       "size": "1.1 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/508/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "جامع البيان للإيجي"
     },
     {
       "id": "qul_tafsir_509",
@@ -1588,7 +1619,8 @@
       "audit_status": "parsed_valid",
       "size": "3.8 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/509/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "المحرر الوجيز في تفسير الكتاب العزيز لابن عطية"
     },
     {
       "id": "qul_tafsir_510",
@@ -1610,7 +1642,8 @@
       "audit_status": "parsed_valid",
       "size": "3.0 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/510/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الكشاف عن حقائق التنزيل للزمخشري"
     },
     {
       "id": "qul_tafsir_511",
@@ -1632,7 +1665,8 @@
       "audit_status": "parsed_valid",
       "size": "7.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/511/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "التفسير البسيط للواحدي"
     },
     {
       "id": "qul_tafsir_512",
@@ -1654,7 +1688,8 @@
       "audit_status": "parsed_valid",
       "size": "1.5 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/512/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "النكت والعيون للماوردي"
     },
     {
       "id": "qul_tafsir_513",
@@ -1676,7 +1711,8 @@
       "audit_status": "parsed_valid",
       "size": "1.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/513/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "بحر العلوم للسمرقندي"
     },
     {
       "id": "qul_tafsir_514",
@@ -1698,7 +1734,8 @@
       "audit_status": "parsed_valid",
       "size": "1.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/514/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "مدارك التنزيل وحقائق التأويل للنسفي"
     },
     {
       "id": "qul_tafsir_515",
@@ -1742,7 +1779,8 @@
       "audit_status": "parsed_valid",
       "size": "8.8 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/516/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "اللباب في علوم الكتاب"
     },
     {
       "id": "qul_tafsir_517",
@@ -1764,7 +1802,8 @@
       "audit_status": "parsed_valid",
       "size": "1.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/517/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تدبر وعمل"
     },
     {
       "id": "qul_tafsir_518",
@@ -1786,7 +1825,8 @@
       "audit_status": "parsed_valid",
       "size": "1.4 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/518/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "أنوار التنزيل وأسرار التأويل للبيضاوي"
     },
     {
       "id": "qul_tafsir_519",
@@ -1808,7 +1848,8 @@
       "audit_status": "parsed_valid",
       "size": "0.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/519/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الميسر في غريب القرآن"
     },
     {
       "id": "qul_tafsir_520",
@@ -1830,7 +1871,8 @@
       "audit_status": "parsed_valid",
       "size": "2.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/520/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "الجدول في إعراب القرآن الكريم"
     },
     {
       "id": "qul_tafsir_521",
@@ -1852,7 +1894,8 @@
       "audit_status": "parsed_valid",
       "size": "0.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/521/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "موسوعة القراءات القرآنية"
     },
     {
       "id": "qul_tafsir_522",
@@ -1874,7 +1917,8 @@
       "audit_status": "parsed_valid",
       "size": "0.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/522/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "النشر في القراءات العشر لابن الجزري"
     },
     {
       "id": "qul_tafsir_523",
@@ -1896,7 +1940,8 @@
       "audit_status": "parsed_valid",
       "size": "0.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/523/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير الجلالين"
     },
     {
       "id": "qul_tafsir_524",
@@ -1918,7 +1963,8 @@
       "audit_status": "parsed_valid",
       "size": "4.7 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/524/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "محاسن التأويل للقاسمي"
     },
     {
       "id": "qul_tafsir_525",
@@ -1940,7 +1986,8 @@
       "audit_status": "parsed_valid",
       "size": "3.6 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/525/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "أضواء البيان في إيضاح القرآن بالقرآن"
     },
     {
       "id": "qul_tafsir_526",
@@ -1962,7 +2009,8 @@
       "audit_status": "parsed_valid",
       "size": "7.2 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/526/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "البحر المحيط لأبي حيان"
     },
     {
       "id": "qul_tafsir_527",
@@ -1984,7 +2032,8 @@
       "audit_status": "parsed_valid",
       "size": "2.3 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/527/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير الثعالبي"
     },
     {
       "id": "qul_tafsir_528",
@@ -2006,7 +2055,8 @@
       "audit_status": "parsed_valid",
       "size": "2.9 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/528/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير الثعالبي"
     },
     {
       "id": "qul_tafsir_529",
@@ -2028,7 +2078,8 @@
       "audit_status": "parsed_valid",
       "size": "1.6 MB",
       "license_page_url": "https://qul.tarteel.ai/resources/tafsir/529/licence",
-      "license_note": "We don’t have copyright information for this resource."
+      "license_note": "We don’t have copyright information for this resource.",
+      "display_name_ar": "تفسير السمعاني"
     },
     {
       "id": "qul_tafsir_533",
